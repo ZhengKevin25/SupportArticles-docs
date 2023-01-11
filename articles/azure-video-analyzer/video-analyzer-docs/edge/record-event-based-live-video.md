@@ -1,4 +1,3 @@
-
 ---
 title: Event-based video recording to the cloud and playback from the cloud tutorial
 description: In this tutorial, you'll learn how to use Azure Video Analyzer to record an event-based video recording to the cloud and play it back from the cloud.
